@@ -1,0 +1,1 @@
+# plugins-pw-woocommerce-exclude-free-shipping
