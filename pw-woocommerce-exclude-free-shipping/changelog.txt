@@ -1,3 +1,6 @@
+= 1.41 =
+* Load translation files in the plugins_loaded event rather than init.
+
 = 1.40 =
 * Changed hook for loading translations file to avoid warning in WordPress 6.7.
 
