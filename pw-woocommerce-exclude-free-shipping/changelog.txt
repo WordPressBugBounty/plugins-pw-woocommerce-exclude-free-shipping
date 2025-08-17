@@ -1,3 +1,6 @@
+= 1.43 =
+* Compatibility with WooCommerce 10.1.
+
 = 1.42 =
 * Compatibility with WordPress 6.8 and WooCommerce 9.8.
 
