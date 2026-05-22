@@ -4,8 +4,8 @@ Donate link: https://paypal.me/pimwick
 Tags: woocommerce, shipping, products, utilities, free shipping
 Requires at least: 4.5
 Requires PHP: 7.4
-Tested up to: 6.9
-Stable tag: 1.45
+Tested up to: 7.0
+Stable tag: 1.46
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -51,6 +51,9 @@ Quickly update the products that should be excluded from the Free Shipping offer
 
 == Changelog ==
 
+= 1.46 =
+* Confirmed compatibility with WordPress 7.0.
+
 = 1.45 =
 * Compatibility with WooCommerce 10.6.
 
@@ -78,16 +81,13 @@ Quickly update the products that should be excluded from the Free Shipping offer
 = 1.37 =
 * WooCommerce 9.0 compatibility.
 
-= 1.36 =
-* Compatibility with WordPress 6.5 and WooCommerce 8.7 Revised tags in readme.txt
-
 = Previous versions =
 * See changelog.txt
 
 == Upgrade Notice ==
 
-= 1.45 =
-* Compatibility with WooCommerce 10.6.
+= 1.46 =
+* Confirmed compatibility with WordPress 7.0.
 
 == Frequently Asked Questions ==
 **Can I use PW WooCommerce Bulk Edit to check the Exclude Free Shipping field?**
