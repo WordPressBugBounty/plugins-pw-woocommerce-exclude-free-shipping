@@ -1,3 +1,6 @@
+= 1.47 =
+* Confirmed compatibility with WordPress 7.1.
+
 = 1.46 =
 * Confirmed compatibility with WordPress 7.0.
 

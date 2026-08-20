@@ -3,7 +3,7 @@
  * Plugin Name: PW WooCommerce Exclude Free Shipping
  * Plugin URI: https://wordpress.org/plugins/pw-woocommerce-exclude-free-shipping
  * Description: Specify products that cause Free Shipping to not be available when they are in the cart.
- * Version: 1.46
+ * Version: 1.47
  * Author: Pimwick, LLC
  * Author URI: https://pimwick.com
  * Text Domain: pw-woocommerce-exclude-free-shipping
