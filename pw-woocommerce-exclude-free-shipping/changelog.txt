@@ -1,3 +1,6 @@
+= 1.48 =
+* Confirmed compatibility with WooCommerce 11.3.
+
 = 1.47 =
 * Confirmed compatibility with WordPress 7.1.
 

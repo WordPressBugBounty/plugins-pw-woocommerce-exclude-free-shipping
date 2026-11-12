@@ -5,7 +5,7 @@ Tags: woocommerce, shipping, products, utilities, free shipping
 Requires at least: 4.5
 Requires PHP: 7.4
 Tested up to: 7.1
-Stable tag: 1.47
+Stable tag: 1.48
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -51,6 +51,9 @@ Quickly update the products that should be excluded from the Free Shipping offer
 
 == Changelog ==
 
+= 1.48 =
+* Confirmed compatibility with WooCommerce 11.3.
+
 = 1.47 =
 * Confirmed compatibility with WordPress 7.1.
 
@@ -78,16 +81,13 @@ Quickly update the products that should be excluded from the Free Shipping offer
 = 1.39 =
 * Compatibility with WordPress 6.7 and WooCommerce 9.4.
 
-= 1.38 =
-* Compatibility with WordPress 6.6 and WooCommerce 9.1. Added requirement for WooCommerce plugin to be installed.
-
 = Previous versions =
 * See changelog.txt
 
 == Upgrade Notice ==
 
-= 1.47 =
-* Confirmed compatibility with WordPress 7.1.
+= 1.48 =
+* Confirmed compatibility with WooCommerce 11.3.
 
 == Frequently Asked Questions ==
 **Can I use PW WooCommerce Bulk Edit to check the Exclude Free Shipping field?**
